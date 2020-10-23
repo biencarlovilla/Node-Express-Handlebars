@@ -1,0 +1,27 @@
+{
+  "name": "node-express-handlebars",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test run",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biencarlovilla/Node-Express-Handlebars.git"
+  },
+  "author": "Biencarlo Villa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biencarlovilla/Node-Express-Handlebars/issues"
+  },
+  "homepage": "https://github.com/biencarlovilla/Node-Express-Handlebars#readme"
+}
